@@ -1,2 +1,1 @@
-# prepcourse-felipe
-ayuda a mejorar
+proyecto para ver si puedo 
